@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://ask-quiz.netlify.app/
+          Live Project : 
 </h3>
 <br />
 
